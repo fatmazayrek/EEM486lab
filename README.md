@@ -1,1 +1,1 @@
-EEM486lab (Computer Architecture Lab) at Eskisehir Technical University
+Task of EEM486 (Computer Architecture) Lab at Eskisehir Technical University
