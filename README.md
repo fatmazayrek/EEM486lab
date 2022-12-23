@@ -1,4 +1,4 @@
-##🔌Tasks of EEM486 (Computer Architecture) Lab at Eskisehir Technical University:
+## 🔌Tasks of EEM486 (Computer Architecture) Lab at Eskisehir Technical University:
 
 LAB1: 4-BIT SEQUENTIAL ADDER
 
